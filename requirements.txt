@@ -2,4 +2,5 @@ gunicorn
 Flask==2.3.2
 flask_sqlalchemy==3.1.1
 flask-bootstrap==3.3.7.1
-flaskwtf==1.2.2
+flaskwtf==2.3.2
+
